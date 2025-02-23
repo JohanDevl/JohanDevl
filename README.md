@@ -1,4 +1,4 @@
-# Hello World! 👋, I'm Johan, a developer passionate about building scalable and efficient systems
+# Hello World! 👋, I'm Johan, a french developer
 
 🔭 Currently working on projects to learn new technologies<br>
 💻 Developer with a passion for scalable and efficient systems<br>
