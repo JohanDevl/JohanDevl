@@ -34,6 +34,32 @@ const johan = {
   <img src="https://skillicons.dev/icons?i=js,ts,python,angular,nodejs,mongodb,postgres,mysql,docker,git,linux&theme=dark" />
 </p>
 
+## 🤖 AI Enthusiast
+
+<div align="center">
+
+*Passionate about AI and leveraging cutting-edge language models for development*
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-4_Sonnet-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Qwen_3-FF4B4B?style=for-the-badge&logo=alibaba&logoColor=white" alt="Qwen"/>
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok"/>
+  <img src="https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge&logo=mistral&logoColor=white" alt="Mistral"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kimi_K2-6366F1?style=for-the-badge&logo=moonshot&logoColor=white" alt="Kimi"/>
+  <img src="https://img.shields.io/badge/DeepSeek-4285F4?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+</p>
+
+</div>
+
 ## 🌐 Let's Connect
 
 <div align="center">
