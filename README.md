@@ -21,10 +21,10 @@ const johan = {
     backEnd: ["Node.js", "Express"],
     databases: ["MongoDB", "PostgreSQL", "MySQL"],
     devOps: ["Docker", "Linux"],
-    tools: ["Git", "Raycast"]
+    tools: ["Git", "Raycast"],
   },
   currentFocus: "Learning new technologies and building efficient systems",
-  funFact: "I love automating everything with Raycast extensions!"
+  funFact: "I love automating everything with Raycast extensions!",
 };
 ```
 
@@ -38,10 +38,10 @@ const johan = {
 
 <div align="center">
 
-*Passionate about AI and leveraging cutting-edge language models for development*
+_Passionate about AI and leveraging cutting-edge language models for development_
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude-4_Sonnet-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
   <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity"/>
 </p>
