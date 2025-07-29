@@ -17,7 +17,7 @@ const johan = {
   code: ["TypeScript", "JavaScript", "Python"],
   askMeAbout: ["web dev", "backend systems", "database design", "ServiceNow"],
   technologies: {
-    frontEnd: ["Angular", "Next.js", "HTML", "CSS"],
+    frontEnd: ["Angular", "React", "Next.js", "HTML", "CSS"],
     backEnd: ["Node.js"],
     databases: ["MongoDB", "PostgreSQL", "MySQL"],
     devOps: ["Docker", "Linux"],
@@ -30,8 +30,32 @@ const johan = {
 
 ## 🛠️ Tech Stack
 
+### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,angular,nodejs,mongodb,postgres,mysql,docker,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,html,css,js,ts&theme=dark" />
+</p>
+
+### Backend & Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,ts,js&theme=dark" />
+</p>
+
+### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" />
+</p>
+
+### DevOps & Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git&theme=dark" />
+</p>
+
+### Development Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/ServiceNow-81B4A1?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Claude_Code-C15F3C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Raycast-FF6363?style=for-the-badge&logo=raycast&logoColor=white" alt="Raycast"/>
 </p>
 
 ## 🤖 AI Enthusiast
@@ -41,20 +65,20 @@ const johan = {
 _Passionate about AI and leveraging cutting-edge language models for development_
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity"/>
+  <img src="https://img.shields.io/badge/Claude-C15F3C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Perplexity-20B8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Qwen_3-FF4B4B?style=for-the-badge&logo=alibaba&logoColor=white" alt="Qwen"/>
+  <img src="https://img.shields.io/badge/Qwen_3-FF6A00?style=for-the-badge&logo=alibaba&logoColor=white" alt="Qwen"/>
   <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok"/>
   <img src="https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge&logo=mistral&logoColor=white" alt="Mistral"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kimi_K2-6366F1?style=for-the-badge&logo=moonshot&logoColor=white" alt="Kimi"/>
-  <img src="https://img.shields.io/badge/DeepSeek-4285F4?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek"/>
+  <img src="https://img.shields.io/badge/DeepSeek-1E40AF?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek"/>
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
 </p>
 
