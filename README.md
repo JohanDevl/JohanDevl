@@ -15,13 +15,13 @@
 ```typescript
 const johan = {
   code: ["TypeScript", "JavaScript", "Python"],
-  askMeAbout: ["web dev", "backend systems", "database design"],
+  askMeAbout: ["web dev", "backend systems", "database design", "ServiceNow"],
   technologies: {
-    frontEnd: ["Angular", "HTML", "CSS"],
-    backEnd: ["Node.js", "Express"],
+    frontEnd: ["Angular", "Next.js", "HTML", "CSS"],
+    backEnd: ["Node.js"],
     databases: ["MongoDB", "PostgreSQL", "MySQL"],
     devOps: ["Docker", "Linux"],
-    tools: ["Git", "Raycast"],
+    tools: ["Git", "Raycast", "Cursor", "Claude Code"],
   },
   currentFocus: "Learning new technologies and building efficient systems",
   funFact: "I love automating everything with Raycast extensions!",
