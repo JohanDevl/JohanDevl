@@ -21,7 +21,7 @@ const johan = {
     backEnd: ["Node.js"],
     databases: ["MongoDB", "PostgreSQL", "MySQL"],
     devOps: ["Docker", "Linux"],
-    tools: ["Git", "Raycast", "Cursor", "Claude Code"],
+    tools: ["Git", "Raycast", "Zed", "Claude Code"],
   },
   currentFocus: "Learning new technologies and building efficient systems",
   funFact: "I love automating everything with Raycast extensions!",
@@ -53,7 +53,7 @@ const johan = {
 ### Development Tools & Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/ServiceNow-81B4A1?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zed&logoColor=white" alt="Zed"/>
   <img src="https://img.shields.io/badge/Claude_Code-C15F3C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
   <img src="https://img.shields.io/badge/Raycast-FF6363?style=for-the-badge&logo=raycast&logoColor=white" alt="Raycast"/>
 </p>
